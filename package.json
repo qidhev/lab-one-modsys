@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lastlow098.github.io/model-lab-one/",
+  "homepage": "https://qidhev.github.io/lab-one-modsys/",
   "name": "model-lab-one",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
