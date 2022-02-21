@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lab-one-modsys/static/css/main.469ddf46.css",
+    "main.js": "/lab-one-modsys/static/js/main.85a29812.js",
+    "static/js/787.751d00aa.chunk.js": "/lab-one-modsys/static/js/787.751d00aa.chunk.js",
+    "index.html": "/lab-one-modsys/index.html",
+    "main.469ddf46.css.map": "/lab-one-modsys/static/css/main.469ddf46.css.map",
+    "main.85a29812.js.map": "/lab-one-modsys/static/js/main.85a29812.js.map",
+    "787.751d00aa.chunk.js.map": "/lab-one-modsys/static/js/787.751d00aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469ddf46.css",
+    "static/js/main.85a29812.js"
+  ]
+}
